@@ -45,3 +45,4 @@ static/.idea
 mysqldump
 .my.cnf
 exports/temp.sql
+wp-admin-password.txt
