@@ -25,6 +25,7 @@ Temporary Items
 
 .idea
 *.log
+wordpress/.idea
 wordpress/sitemap.xml
 wordpress/sitemap.xml.gz
 wordpress/wp-config.php
