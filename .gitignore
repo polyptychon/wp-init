@@ -47,3 +47,4 @@ mysqldump
 .my.cnf
 exports/temp.sql
 wp-admin-password.txt
+admin-password.txt
