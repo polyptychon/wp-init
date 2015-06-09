@@ -31,6 +31,7 @@ wordpress/sitemap.xml
 wordpress/sitemap.xml.gz
 wordpress/wp-config.php
 wordpress/error_log
+wordpress/wp-admin/error_log
 wordpress/wp-content/advanced-cache.php
 wordpress/wp-content/backup-db/
 wordpress/wp-content/backups/
@@ -44,6 +45,7 @@ wordpress/wp-content/plugins/all-in-one-wp-migration/storage/status.php
 wordpress/wp-content/plugins/all-in-one-wp-security-and-firewall/logs/wp-security-log-cron-job.txt
 wordpress/wp-content/plugins/all-in-one-wp-security-and-firewall/logs/wp-security-log.txt
 wordpress/wp-content/aiowps_backups/
+wordpress/wp-content/ewww/
 
 static/node_modules
 static/builds
