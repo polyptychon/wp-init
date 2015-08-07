@@ -27,6 +27,7 @@ Temporary Items
 *.log
 wordpress/.idea
 wordpress/.htaccess
+wordpress/.ftpquota
 wordpress/sitemap.xml
 wordpress/sitemap.xml.gz
 wordpress/wp-config.php
