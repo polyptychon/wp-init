@@ -44,10 +44,13 @@ wordpress/wp-content/wp-cache-config.php
 wordpress/wp-content/plugins/all-in-one-wp-migration/backups/
 wordpress/wp-content/plugins/all-in-one-wp-migration/storage/status.php
 wordpress/wp-content/plugins/all-in-one-wp-security-and-firewall/logs/
+wordpress/wp-content/plugins/all-in-one-wp-security-and-firewall/logs/*
 wordpress/wp-content/plugins/all-in-one-wp-security-and-firewall/logs/wp-security-log-cron-job.txt
 wordpress/wp-content/plugins/all-in-one-wp-security-and-firewall/logs/wp-security-log.txt
 wordpress/wp-content/aiowps_backups/
+wordpress/wp-content/aiowps_backups/*
 wordpress/wp-content/ewww/
+wordpress/wp-content/ewww/*
 
 static/node_modules
 static/builds
