@@ -25,6 +25,7 @@ Temporary Items
 
 .idea
 *.log
+wordpress/google*.html
 wordpress/.idea
 wordpress/.htaccess
 wordpress/.ftpquota
