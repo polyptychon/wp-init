@@ -41,6 +41,7 @@ wordpress/wp-content/blogs.dir/
 wordpress/wp-content/cache/
 wordpress/wp-content/upgrade/
 wordpress/wp-content/uploads/
+wordpress/wp-content/uploads
 wordpress/wp-content/wp-cache-config.php
 wordpress/wp-content/plugins/all-in-one-wp-migration/backups/
 wordpress/wp-content/plugins/all-in-one-wp-migration/storage/status.php
